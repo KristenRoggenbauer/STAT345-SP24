@@ -19,6 +19,12 @@ When you click the **Knit** button a document will be generated that includes bo
 summary(cars)
 
 #This is pretty cool. Definitely look into this. Why did so much appear from simply clicking create...
+
+7*3
+4*4
+corn = 18/3
+
+corn
 ```
 
 ## Including Plots
